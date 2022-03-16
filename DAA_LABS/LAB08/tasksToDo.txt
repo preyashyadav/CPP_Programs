@@ -1,0 +1,3 @@
+LPS
+-> Optimized naive string pattern matching algorithm
+-> Optimized naive string pattern matching algorithm with some special character in it which can be modified later
