@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    vector<int> arr = {1,4,5,3,6};
+    vector<int> arr = {2,3,8,6,1};
     vector<pair<int,int>> ans;
     for(int i=0; i<arr.size(); i++){
         for(int j=i+1; j<arr.size(); j++){
